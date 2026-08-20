@@ -1,4 +1,4 @@
-# Create-Stranded-at-Sea-Ru
+# Create Stranded at Sea-Ru
 
 Информация: Перевод квестов в сборке Create: Stranded at Sea (3.10) Ссылка на [сборку](https://www.curseforge.com/minecraft/modpacks/create-stranded-at-sea)
 
